@@ -2,7 +2,7 @@ public class hepler {
 
 
 
-    public static String name  ="hamza";
+    public static String name  ="hamza 666";
 
 
 
